@@ -1,0 +1,8 @@
+archery*
+cricket*
+swimming*
+gymnastics*
+table tennis*['wed', 'fri'],
+judo*['tue', 'fri', 'sat']
+kendo*['mon', 'wed']
+tennis*['mon', 'tue'],

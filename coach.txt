@@ -1,0 +1,7 @@
+tp062442,malfoi,15/12,20/12,100,07013579984,hogwarts,08973,chigasaki,77098,volley ball,1.0,0
+tp334556,eva,01/01,12/01,300,07036473829,heaven,887887,oasis,77098,volley ball,1.0,0
+tp027362,alex,2/12,4/15,300,098088766,tokyo,quqyd,sendai,88970,archery,2.0,2
+tp009008,json,12/01,03/02,300,02930290392,canada,887887,tront,117117,table tennis,4.0,1
+tp027361,might,2/12,4/15,400,098088766,tokyo,quqyd,miho,59678,foot ball,4.0,3
+tp062443,john,15/12,20/12,200,07013579984,Ibaraki,08975,tsuchiura,83116,swimming,5.0,2
+tp064112,david,27/01,12/02,300,0928392,kualalumpur,77089,malaysia,59678,foot ball,0.0,0.0

@@ -1,0 +1,13 @@
+admin,admin,name,sex,old,address,e-mail,phone_number,sport,0
+ema,ema,name,sex,old,address,e-mail,phone_number,sport,1
+watoson,watoson,name,sex,old,address,e-mail,phone_number,sport,2
+angelina,angelina,name,sex,old,address,e-mail,phone_number,sport,3
+jolly,jolly,name,sex,old,address,e-mail,phone_number,sport,4
+arnold,arnold,tarou mitsuhashi,man,21,okinawa,eee@ooo,07093729394,valleyball,5
+hakase,hakase,tarou hakase,man,60,tokyo,ppp@iii,07037628384,volley ball,7
+jelly,jelly,name,sex,old,address,e-mail,phone_number,sport,8
+negger,negger,negger jamike,female,34,asia,eee@eee,29382930293,foot ball,9
+minami,minami,name,sex,old,address,e-mail,phone_number,sport,10
+ryuji,ryuji,ryuji kokubu,male,20,Ibaraki,xxx@yyy,08092738475,foot ball,6
+canon,canon,canon nikon,female,19,new york,rrr@www,998334738,archery,11
+bob,bob,bob andle,male,22,america,ppp@qqq,083029323,foot ball,13
